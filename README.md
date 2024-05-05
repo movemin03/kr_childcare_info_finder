@@ -1,4 +1,4 @@
-# 한국 어린이집 정보 검색기 (kr_childcare_info_finder.py)
+# 한국 어린이집 정보 검색기 (kr_childcare_info_finder.py) 👍❤️
 
 어린이집 정보 검색기 프로그램은 선택한 지역 내 어린이집에 관한 정보를 가져올 수 있습니다. 원하는 위치를 제공하면 해당 지역에 위치한 어린이집에 대한 데이터를 가져옵니다.
 
@@ -17,8 +17,9 @@ pip install pandas, requests, xml.etree.ElementTree
 ## 참고
 이 프로그램은 보육통합정보시스템에서 제공하는 데이터를 기반으로 합니다. API 키를 사용할 때 적절한 액세스 권한을 보유하고 이용약관을 준수해야 합니다.
 
+---
 
-# kr_childcare_info_finder
+# kr_childcare_info_finder (English) 👍❤️
 
 The Kindergarten Information Finder program allows you to retrieve information about kindergartens within a selected area. By providing the desired location, the program fetches data on kindergartens located in that area.
 
