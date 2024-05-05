@@ -3,7 +3,7 @@
 어린이집 정보 검색기 프로그램은 선택한 지역 내 어린이집에 관한 정보를 가져올 수 있습니다. 원하는 위치를 제공하면 해당 지역에 위치한 어린이집에 대한 데이터를 가져옵니다.
 
 ## 사용법
-1. 보육통합정보시스템 웹사이트 [여기](https://info.childcare.go.kr/info/oais/introduction/Intro.jsp)에서 API 키를 발급받습니다.
+1. 보육통합정보시스템 웹사이트 [여기]([https://info.childcare.go.kr/info/oais/introduction/Intro.jsp](https://info.childcare.go.kr/info/oais/openapi/OpenApiInfoSl.jsp))에서 API 키를 발급받습니다.
 2. `kindergarten_info_finder.py` 스크립트를 실행합니다.
 3. 원하는 위치를 입력합니다.
 4. 프로그램은 선택한 지역의 어린이집 정보를 가져옵니다.
@@ -23,7 +23,7 @@ pip install pandas, requests, xml.etree.ElementTree
 The Kindergarten Information Finder program allows you to retrieve information about kindergartens within a selected area. By providing the desired location, the program fetches data on kindergartens located in that area.
 
 ## Usage
-1. Obtain an API key from the Childcare Integrated Information System website [here](https://info.childcare.go.kr/info/oais/introduction/Intro.jsp).
+1. Obtain an API key from the Childcare Integrated Information System website [here](https://info.childcare.go.kr/info/oais/openapi/OpenApiInfoSl.jsp).
 2. Run the `kindergarten_info_finder.py` script.
 3. Input the desired location.
 4. The program will fetch information about kindergartens in the selected area.
